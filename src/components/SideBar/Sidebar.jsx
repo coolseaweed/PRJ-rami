@@ -24,7 +24,7 @@ const Sidebar = () => {
           display={{ base: "none", md: "block" }}
           cursor="pointer"
         >
-          <InstagramLogo />
+          <img src="https://goarcade.s3.ap-northeast-2.amazonaws.com/project/rami/assets/logo/ramigram.png" />
         </Link>
         <Link
           to={"/"}
